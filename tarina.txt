@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Olipa vain kerran poika ja leijona.
+=======
+Olipa kerran poika ja ilves.
+>>>>>>> Stashed changes
