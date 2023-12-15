@@ -11,5 +11,6 @@ suolakurkku
 katkarapu
 kaneli
 puuro
-ranskalaiset
+peruna
+porkkana
 
