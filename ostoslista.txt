@@ -13,4 +13,6 @@ kaneli
 puuro
 peruna
 porkkana
+kalkkuna
+kinkku
 
