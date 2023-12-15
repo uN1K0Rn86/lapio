@@ -1,5 +1,5 @@
 ruokosokeri
-suola
+sormisuola
 pippuri
 oliivit
 oliiviöljy
